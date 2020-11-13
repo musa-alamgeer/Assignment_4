@@ -4,8 +4,8 @@ import welcome from './welcome.js';
 
 function App() {
   return (
+    <welcome />
     <div className="App">
-      <welcome />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
