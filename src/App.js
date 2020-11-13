@@ -5,9 +5,9 @@ import welcome from './welcome.js';
 function App() {
   return (
     <div className="App">
+      <welcome />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <welcome />
         <h1>
           Friday
         </h1>
