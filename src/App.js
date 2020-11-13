@@ -1,10 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import welcome from './welcome.js';
 
 function App() {
   return (
-    <welcome />
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -22,8 +20,10 @@ function App() {
         >
           Learn React
         </a>
+    <div><p> Welcome to DevOps Class</p> </div>
       </header>
     </div>
+    
   );
 }
 
