@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Friday
+        </h1>
         <p>
           Musa Alamgeer 2017352 - Assignment 4
         </p>
@@ -19,9 +22,6 @@ function App() {
         </a>
       </header>
     </div>
-    <div>
-     <h1>Friday, 13 November 2020</h1>
-    </div
   );
 }
 
